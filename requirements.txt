@@ -1,0 +1,6 @@
+Flask
+openai
+flask-cors
+flask-limiter
+gradio
+python-dotenv
