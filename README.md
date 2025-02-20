@@ -12,6 +12,6 @@ A **Flask-based chatbot** powered by **OpenAI's GPT-4**, designed for FinTech-re
 ## 📂 Installation  
 
 ```bash
-git clone https://github.com/your-username/wecredit-chatbot.git
-cd wecredit-chatbot
+git clone https://github.com/your-username/chatbot.git
+cd chatbot
 pip install -r requirements.txt
